@@ -1,0 +1,107 @@
+year,start,finish,car,driver,make_model,qual_speed,race_time,race_speed
+2022,5,1,8,Marcus Ericsson,Dallara/Honda,232.764,2:51:00.6432,175.428
+2021,8,1,6,Helio Castroneves,Dallara/Honda,230.355,2:37:19.3846,190.69
+2020,3,1,30,Takuma Sato,Dallara/Honda,230.725,3:10:05.0880,157.824
+2019,1,1,22,Simon Pagenaud,Dallara/Chevrolet,229.992,2:50:39.2797,175.794
+2018,3,1,12,Will Power,Dallara/Chevrolet,228.607,2:59:42.6365,166.935
+2017,4,1,26,Takuma Sato,Dallara/Honda,231.365,3:13:03.3584,155.395
+2016,11,1,98,Alexander Rossi,Dallara/Honda,228.473,3:00:02.0872,166.634
+2015,15,1,2,Juan Pablo Montoya,Dallara/Chevrolet,224.657,3:05:56.5286,161.341
+2014,19,1,28,Ryan Hunter-Reay,Dallara/Honda,229.719,2:40:48.2305,186.563
+2013,12,1,11,Tony Kanaan,Dallara/Chevrolet,226.949,2:40:03.4181,187.433
+2012,16,1,50,Dario Franchitti,Dallara/Honda,223.582,2:58:51.2532,167.734
+2011,6,1,98,Dan Wheldon,Dallara/Honda,226.49,2:56:11.7267,170.265
+2010,3,1,10,Dario Franchitti,Dallara/Honda,226.99,3:05:37.0131,161.623
+2009,1,1,3,Helio Castroneves,Dallara/Honda,224.864,3:19:34.6427,150.318
+2008,1,1,9,Scott Dixon,Dallara/Honda,226.366,3:28:57.6792,143.567
+2007,3,1,27,Dario Franchitti,Dallara/Honda,225.191,2:44:03.5608,151.774
+2006,1,1,6,Sam Hornish Jr.,Dallara/Honda,228.985,3:10:58.7590,157.085
+2005,16,1,26,Dan Wheldon,Dallara/Honda,224.308,3:10:21:0769,157.603
+2004,1,1,15,Buddy Rice,Panoz G Force/Honda,222.024,3:14:55.2395,138.518
+2003,10,1,6,Gil de Ferran,Panoz G Force/Toyota,228.633,3:11:56.9891,156.291
+2002,13,1,3,Helio Castroneves,Dallara/Chevrolet,229.052,3:00:10.8714,166.499
+2001,11,1,68,Helio Castroneves,Dallara/Oldsmobile,224.142,3:31:54.1800,141.574
+2000,2,1,9,Juan Pablo Montoya,G Force/Oldsmobile,223.372,2:58:59.431,167.607
+1999,8,1,14,Kenny Brack,Dallara/Oldsmobile Aurora,222.659,3:15:51.182,153.176
+1998,17,1,51,Eddie Cheever Jr.,Dallara/Oldsmobile Aurora,217.334,3:26:40.524,145.155
+1997,1,1,5,Arie Luyendyk,G Force/Oldsmobile Aurora,218.263,3:25:43.388,145.827
+1996,5,1,91,Buddy Lazier,Reynard/Ford Cosworth XB,231.468,3:22:45.753,147.956
+1995,5,1,27,Jacques Villeneuve,Reynard/Ford Cosworth XB,228.397,3:15:17.561,153.616
+1994,1,1,31,Al Unser Jr.,Penske/Mercedes Benz,228.011,3:06:29.006,160.872
+1993,9,1,4,Emerson Fittipaldi,Penske/Chevrolet Indy C,220.15,3:10:49.860,157.207
+1992,12,1,3,Al Unser Jr.,Galmer/Chevrolet Indy A,222.989,3:43:05.148,134.477
+1991,1,1,3,Rick Mears,Penske/Chevrolet Indy A,224.113,2:50:00.791,176.457
+1990,3,1,30,Arie Luyendyk,Lola/Chevrolet Indy,223.304,2:41:18.404,185.981
+1989,3,1,20,Emerson Fittipaldi,Penske/Chevrolet Indy,222.329,2:59:01.049,167.581
+1988,1,1,5,Rick Mears,Penske/Chevrolet Indy,219.198,3:27:10.204,144.809
+1987,20,1,25,Al Unser,March/Cosworth,207.423,3:04:59.14,162.175
+1986,4,1,3,Bobby Rahal,March/Cosworth,213.55,2:55:43.48,170.722
+1985,8,1,5,Danny Sullivan,March/Cosworth,210.298,3:16:06.06,152.982
+1984,3,1,6,Rick Mears,March/Cosworth,207.847,3:03:21.66,163.612
+1983,4,1,5,Tom Sneva,March/Cosworth,203.687,3:05:03.06,162.117
+1982,5,1,20,Gordon Johncock,Wildcat/Cosworth,201.884,3:05:09.14,162.029
+1981,1,1,3,Bobby Unser,Penske/Cosworth,200.546,3:35:41.78,139.184
+1980,1,1,4,Johnny Rutherford,Chaparral/Cosworth,192.256,3:29:59.56,142.862
+1979,1,1,9,Rick Mears,Penske/Cosworth,193.736,3:08:47.97,158.899
+1978,5,1,2,Al Unser,Lola/Cosworth,196.474,3:05:54.99,161.363
+1977,4,1,14,A.J. Foyt,Coyote/Foyt,194.563,3:05:57.16,161.331
+1976,1,1,2,Johnny Rutherford,McLaren/Offy,188.957,1:42:52.48,148.725
+1975,3,1,48,Bobby Unser,Eagle/Offy,191.073,2:54:55.08,149.213
+1974,25,1,3,Johnny Rutherford,McLaren/Offy,190.446,3:09:10.06,158.589
+1973,11,1,20,Gordon Johncock,Eagle/Offy,192.555,2:05:26.59,159.036
+1972,3,1,66,Mark Donohue,McLaren/Offy,191.408,3:04:05.54,162.962
+1971,5,1,1,Al Unser,P.J. Colt/Ford,174.622,3:10:11.56,157.735
+1970,1,1,2,Al Unser,P.J. Colt/Ford,170.221,3:12:37.04,155.749
+1969,2,1,2,Mario Andretti,Hawk III/Ford,169.851,3:11:14.71,156.867
+1968,3,1,3,Bobby Unser,Eagle/Offy,169.507,3:16:13.76,152.882
+1967,4,1,14,A.J. Foyt,Coyote/Ford,166.289,3:18:24.22,151.207
+1966,15,1,24,Graham Hill,Lola/Ford,159.243,3:27:52.53,144.317
+1965,2,1,82,Jim Clark,Lotus/Ford,160.729,3:19:05.34,150.686
+1964,5,1,1,A.J. Foyt,Watson/Offy,154.672,3:23:35.83,147.35
+1963,1,1,98,Parnelli Jones,Watson/Offy,151.153,3:29:35.40,143.137
+1962,2,1,3,Rodger Ward,Watson/Offy,149.371,3:33:50.33,140.293
+1961,7,1,1,A.J. Foyt,Trevis/Offy,145.903,3:35:37.49,139.13
+1960,2,1,4,Jim Rathmann,Watson/Offy,146.371,3:36:11.36,138.767
+1959,6,1,5,Rodger Ward,Watson/Offy,144.035,3:40:49.20,135.857
+1958,7,1,1,Jimmy Bryan,Salih/Offy,144.185,3:44:13.80,133.791
+1957,13,1,9,Sam Hanks,Salih/Offy,142.812,3:41:14.25,135.601
+1956,1,1,8,Pat Flaherty,Watson/Offy,145.596,3:53:28.84,128.49
+1955,14,1,6,Bob Sweikert,KK500D/Offy,139.996,3:53:59.43,128.209
+1954,19,1,14,Bill Vukovich,KK500A/Offy,138.478,3:49:17.27,130.84
+1953,1,1,14,Bill Vukovich,KK500A/Offy,138.392,3:53:01.69,127.74
+1952,7,1,98,Troy Ruttman,Kuzma/Offy,135.364,3:52:41.88,128.922
+1951,2,1,99,Lee Wallard,Kurtis/Offy,135.039,3:57:38.05,126.244
+1950,5,1,1,Johnnie Parsons,Kurtis/Offy,132.044,2:46:55.97,124.022
+1949,4,1,7,Bill Holland,Deidt/Offy,128.673,4:07:15.97,121.327
+1948,3,1,3,Mauri Rose,Deidt/Offy,129.129,4:10:23.33,119.814
+1947,3,1,27,Mauri Rose,Deidt/Offy,124.04,4:17:52.17,116.338
+1946,15,1,16,George Robson,Adams/Sparks,125.541,4:21:16.70,114.82
+1941,17,1,16,Floyd Davis / Mauri Rose,Wetteroth/Offy,121.106,4:20:36.24,115.117
+1940,2,1,1,Wilbur Shaw,Maserati/Maserati,127.065,4:22:31.17,114.277
+1939,3,1,2,Wilbur Shaw,Maserati/Maserati,128.977,4:20:47.390,115.035
+1938,1,1,23,Floyd Roberts,Wetteroth/Miller,125.681,4:14:58.40,117.2
+1937,2,1,6,Wilbur Shaw,Shaw/Offy,122.791,4:24:07.80,113.58
+1936,28,1,8,Louis Meyer,Stevens/Miller,114.171,4:35:03.39,109.069
+1935,22,1,5,Kelly Petillo,Wetteroth/Offy,115.095,4:42:22.71,106.24
+1934,10,1,7,Bill Cummings,Miller/Miller,116.116,4:46:05.20,104.863
+1933,6,1,36,Louis Meyer,Miller/Miller,116.977,4:48.75,104.162
+1932,27,1,34,Fred Frame,Wetteroth/Miller,113.856,4:48:03.79,104.144
+1931,13,1,23,Louis Schneider,Stevens/Miller,107.21,5:10:27.93,96.629
+1930,1,1,4,Billy Arnold,Summers/Miller,113.268,4:58:39.72,100.448
+1929,6,1,2,Ray Keech,Miller/Miller,114.905,5:07:25.42,97.585
+1928,13,1,14,Louis Meyer,Miller/Miller,111.352,5:01:33.75,99.482
+1927,22,1,32,George Souders,Duesenberg/Duesenberg,111.551,5:07:33.08,97.545
+1926,20,1,15,Frank Lockhart,Miller/Miller,95.783,4:10:14.95,95.904
+1925,2,1,12,Pete DePaolo,Duesenberg/Duesenberg,113.083,4:56:39.46,101.127
+1924,21,1,15,L.L. Corum / Joe Boyer,Duesenberg/Duesenberg,93.833,5:05:23.51,98.234
+1923,1,1,1,Tommy Milton,Miller/Miller,108.17,5:29:50.17,90.954
+1922,1,1,35,Jimmy Murphy,Duesenberg/Miller,100.5,5:17:30.79,94.484
+1921,20,1,2,Tommy Milton,Frontenac/Frontenac,93.05,5:34:44.65,89.621
+1920,6,1,4,Gaston Chevrolet,Frontenac/Frontenac,91.55,5:38:32.00,88.618
+1919,2,1,3,Howdy Wilcox,Peugeot/Peugeot,100.01,5:40:42.87,88.05
+1916,4,1,17,Dario Resta,Peugeot/Peugeot,94.4,3:34:17,84.001
+1915,2,1,2,Ralph DePalma,Mercedes/Mercedes,98.58,5:33:55.51,89.84
+1914,15,1,16,Rene Thomas,Delage/Delage,94.54,6:03:45,82.474
+1913,7,1,16,Jules Goux,Peugeot/Peugeot,86.03,6:35:05,75.933
+1912,7,1,8,Joe Dawson,National/National,86.13,6:21:06,78.719
+1911,28,1,32,Ray Harroun,Marmon/Marmon,NA,6:42:08,74.602
